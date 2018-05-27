@@ -1,0 +1,24 @@
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.exe.config
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.exe
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.pdb
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.Form1.resources
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.exe
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.pdb
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\bin\Debug\Mitov.BasicLab.dll
+C:\Users\Bogdan\Desktop\Programy c#\SerialCommTerminal\SerialCommTerminal\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.exe.config
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.exe
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\bin\Debug\SerialCommTerminal.pdb
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\bin\Debug\Mitov.BasicLab.dll
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\bin\Debug\Mitov.PlotLabBasic.dll
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.Form1.resources
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.Properties.Resources.resources
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.exe
+C:\Users\Bogdan\Downloads\SerialCommTerminal\SerialCommTerminal\SerialCommTerminal\obj\Debug\SerialCommTerminal.pdb
